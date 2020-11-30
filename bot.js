@@ -2,7 +2,7 @@ console.log("Beep Beep");
 
 const Discord = require('discord.js');
 const client = new Discord.Client();
-client.login('NzgyOTcwODY1NTE1NzU3NjA4.X8T8cQ.gT85VNX9-AVGP8i0iqHawM1GsLU');
+client.login('TOKEN ID');
 
 
 
